@@ -1,2 +1,8 @@
 # Belajar
 Berisi deskripsi jalur belajar yang akan dilakukan secara terus menerus 
+1. Php dasar dan Git
+2. OOP PHP 
+3. Mvc
+4. CodeIgniter
+5. Laravel 
+6. Java
